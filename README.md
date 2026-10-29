@@ -62,11 +62,3 @@ Security isn't an afterthought—it's baked into how components talk to each oth
 </td>
 </tr>
 </table>
-
----
-
-<!-- SECTION 3 · WHAT I BUILD -->
-
-## ⚡ What I Build
-
-I focus on building systems where execution efficiency, clean software architecture, and hardware constraints determine real-world performance.
