@@ -27,7 +27,7 @@
 <!-- LEFT COLUMN · Profile / Avatar image -->
 <td width="28%" valign="top">
 
-<img src="https://raw.githubusercontent.com/SaadSadekMansoor/SaadSadekMansoor/main/avatar.jpg"
+<img src="https://raw.githubusercontent.com/SaadSadekMansoor/SaadSadekMansoor/main/avatar.png"
      width="100%"
      style="background:#ffffff; padding:8px; border-radius:10px; border: 2px solid #7B9FFF;"
      alt="Saad Sadek Mansoor"/>
