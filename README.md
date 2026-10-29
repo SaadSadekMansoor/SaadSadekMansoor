@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=7B9FFF&center=true&vCenter=true&width=650&lines=Pushing+Spiking+Neural+Networks+to+the+metal.;Custom+PyTorch+workflows+%7C+GPU+acceleration+%7C+Neuromorphic+AI;Hardware+and+software+are+one+design+problem.;Currently%3A+GPU+computational+performance+of+SNNs." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=7B9FFF&center=true&vCenter=true&width=650&lines=Pushing+Spiking+Neural+Networks+to+the+metal.;Custom+PyTorch+workflows+%7C+GPU+acceleration+%7C+Neuromorphic+AI;Hardware+and+software+are+one+design+problem.;Currently%3A+exploring+my+paths" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,9 +39,11 @@
 
 ### 🧠 How I Think
 
-Engineering is systems-level problem-solving expressed through performance constraints. Real breakthroughs happen when you understand both high-level software logic and low-level hardware execution—whether evaluating deep learning frameworks or building distributed real-time tools.
+Technology is a study in constraints, boundaries, and emergent complexity. Whether looking at software architecture, cybersecurity, or game design, the core challenge is always the same: building systems that are resilient under pressure, elegant in their mechanics, and predictable at their edges. 
 
-Outside the terminal: custom desktop PC hardware benchmarking, exploring espresso brewing workflows, and open-world survival strategy games.
+Security isn't an afterthought—it's baked into how components talk to each other. Good game design and solid engineering share the same DNA: transparent rules, clean state management, and respecting the limits of the hardware executing them.
+
+Outside the terminal: diving into custom PC hardware benchmarking, dialing in espresso workflows, and learning Omarchy Linux.
 
 > *"Premature optimization is the root of all evil — but ignoring hardware behavior is the root of all bottlenecks."*
 
