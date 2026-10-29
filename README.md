@@ -43,8 +43,6 @@ Technology is a study in constraints, boundaries, and emergent complexity. Wheth
 
 Security isn't an afterthought—it's baked into how components talk to each other. Good game design and solid engineering share the same DNA: transparent rules, clean state management, and respecting the limits of the hardware executing them.
 
-Outside the terminal: troubleshooting complex mechanical systems, dialing in the perfect espresso shot, and deep-diving into open-world survival and strategy games.
-
 > *"Premature optimization is the root of all evil — but ignoring hardware behavior is the root of all bottlenecks."*
 
 ---
@@ -52,4 +50,23 @@ Outside the terminal: troubleshooting complex mechanical systems, dialing in the
 ### 🔬 Active Focus
 
 **🧠 Thesis Research — GPU Computational Performance of SNNs**
-<br/>Benchmarking spiking neural network frameworks (`Norse`, `SINABS`, `SpikingJ
+<br/>Benchmarking spiking neural network frameworks (`Norse`, `SINABS`, `SpikingJelly`, `PyTorch`) across event-vision workloads &nbsp;·&nbsp; `2026`
+<br/><sub>PyTorch · SpikingJelly · CUDA · Python</sub>
+
+<br/>
+
+**🛠️ Peer Accountability System ("Study Sync")**
+<br/>Designing and developing a peer accountability study application featuring time-zone synchronization, verification photo feeds, session-activated live location tracking, and automated nudge notifications &nbsp;·&nbsp; `2026`
+<br/><sub>CustomTkinter · Python · Docker · Tailscale</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- SECTION 3 · WHAT I BUILD -->
+
+## ⚡ What I Build
+
+I focus on building systems where execution efficiency, clean software architecture, and hardware constraints determine real-world performance.
